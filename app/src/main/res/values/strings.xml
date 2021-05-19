@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="city_name">Nazwa miasta</string>
+
+    <!--    ERRORS-->
+    <string name="city_not_found_error">Wyszukiwanie miasta nie powiodło się</string>
+    <string name="getting_weather_error">Pobranie danych pogodowych nie powiodło się</string>
+    <string name="getting_forecast_error">Pobieranie prognozy pogody nie powiodło się</string>
+</resources>
