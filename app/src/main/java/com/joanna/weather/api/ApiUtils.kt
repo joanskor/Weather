@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit
  * Created by Joanna on 13.05.2021
  */
 private const val TIMEOUT = 20_000L
-const val APIKEY = "DN60FrzqGAfnwNRLSbqkVHEykcGsAe1t"
+const val APIKEY = "ycj899ACaOA3N1qhf5GaBqOtBZz21Z8c"
 
 internal fun <T> Single<T>.makeRequest(
     schedulerProvider: SchedulerProvider,
